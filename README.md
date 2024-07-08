@@ -2,6 +2,8 @@
 
 My profile is a weird mix of content, some of which was fueled by late night procrastination. Some of it might be useful, most of it is long forgotten and very much not maintained. Good luck to ye who enters here. 
 
+More up-to-date thoughts from my brain at [my website](https://blog.iainsmart.co.uk)
+
 I've got a couple of qualifications, mainly to prove to myself that I vaguely know what I'm talking about.
 
 <!-- Markers for Credly badge thingies -->
