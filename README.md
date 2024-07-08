@@ -10,6 +10,7 @@ I've got a couple of qualifications, mainly to prove to myself that I vaguely kn
 [![AWS Certified Security – Specialty](https://images.credly.com/size/110x110/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png)](http://www.credly.com/badges/26e5b7ed-147c-40ca-8d09-1f2e757ac83e "AWS Certified Security – Specialty")
 [![CKS: Certified Kubernetes Security Specialist](https://images.credly.com/size/110x110/images/9945dfcb-1cca-4529-85e6-db1be3782210/kubernetes-security-specialist-logo2.png)](http://www.credly.com/badges/b2e13394-52d8-4afb-812e-759bca2cc766 "CKS: Certified Kubernetes Security Specialist")
 [![Speaker: KubeCon + CloudNativeCon Europe 2024](https://images.credly.com/size/110x110/images/7452e181-d092-4b92-934f-dfc16d9061e9/image.png)](http://www.credly.com/badges/c60a047a-3f44-4a7c-8c8b-ab9e9297220d "Speaker: KubeCon + CloudNativeCon Europe 2024")
+[![Speaker: CloudNativeSecurityCon North America 2024](https://images.credly.com/size/110x110/images/1f315697-2e3f-4de2-8623-b27dbd602efb/image.png)](http://www.credly.com/badges/fae9f7d7-7452-49e1-a2fe-6615c5522662 "Speaker: CloudNativeSecurityCon North America 2024")
 <!--END_SECTION:badges-->
 
 <!--
